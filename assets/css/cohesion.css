@@ -1,0 +1,78 @@
+#cohesion-logo{width: 300px;}
+#marche-logo{width: 150px;}
+main{padding-top: 1%;    min-height: 50vh;}
+.it-header-center-wrapper .it-header-center-content-wrapper{padding: 0;}
+.it-header-center-wrapper{background-color: #06c;}
+.it-header-slim-wrapper{background-color: rgb(2, 74, 146);}
+.title-divider{width: 40%;
+    margin: 20px 0;}
+    .it-footer-main{background-color: rgb(2, 74, 146);}
+    h2.title-xxlarge{font-weight: 500;}
+    .login-label{border-left: solid 1px;
+        padding-left: 5%;   }
+.square.login-button{
+    border-radius: 15px;
+    padding: 4%;
+}
+.btn.square {
+    font-size: 1em;
+    font-weight: 100;
+}
+.accordion-header .accordion-button:not(.collapsed) {
+    color: #000000;
+}
+.progress {
+    height: 4px;
+    box-shadow: none;
+    background-color: #0066ccbf;
+}
+.it-header-slim-wrapper .it-header-slim-wrapper-content{padding: 0;}
+#helpdesk{}
+#integCohesion{margin-right: 5px!important;}
+.btn-primary {
+    color: #fff;
+    background-color: #0066cc;
+    border-color: #024a92;
+    box-shadow: inset 0 1px 0 hsl(0deg 0% 100% / 15%), 0 1px 1px rgb(0 0 0 / 8%);
+}
+.it-footer .logo-wrapper {
+    flex-direction: column-reverse;
+    align-items: center;
+}
+p.btn-rimary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #0066cc;
+    border-color: #0066cc;
+}
+.btn-primary:hover {
+    background-color: #013264;
+    color: #fff;
+    border-color: #024a92;
+}
+.it-footer .footer-bottom a+a{
+margin-left: 20px;
+}
+.helpDeskbutton{
+    color:white;
+   
+}
+#float{
+    width: 10%;
+    background: white;
+    border-radius: 20px;
+    color: #0066cc;
+    border: solid 3px #0066cc;
+    box-shadow: 0 8px 8px 0 rgb(0 0 0 / 33%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+
+}
+#textArea{
+    border: solid 1px rgb(164, 164, 164);
+}
+.it-page-section#error-notfound{
+    text-align: center;
+}
+.ErrorPage-title{
+    font-size: 10em;
+    color: #06c;
+}
+h2.ErrorPage-title{font-size: 5em;}
